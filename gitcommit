@@ -5,7 +5,8 @@ number2=$[ $RANDOM % 10000 + 1]
 number3=$[ $RANDOM % 1164 + 1]
 pa1=$(sed $number1!d wordlist.10000.txt)
 pa2=$(sed $number2!d wordlist.10000.txt)
-echo $pa1 $pa2 ${emoji:$number3:1} 
+pa3=${emoji:$number3:1}
+echo $pa1 $pa2 $pa3 
 #git commit -m "$pa1 $pa2 - $RANDOM"
-git commit -m "$pa1 $pa2 ${emoji:$number3:1}"
+git commit -m "$pa1 $pa2 $pa3"
 
