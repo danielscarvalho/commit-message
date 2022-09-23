@@ -28,7 +28,7 @@ git commit -m "fell williams 👚"
 ```
 
 
-Put these files at your Linux /home/<user>/bin folder and then:
+Put these files at your Linux /home/&lt;user&gt;/bin folder and then:
 
 ```bash
 git add *
