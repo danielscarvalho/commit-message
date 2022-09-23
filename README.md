@@ -1,7 +1,7 @@
 # commit-message
 Git &amp; GitHub cool commit messages
 
-This Bash script can help you to generate git commit cool messages with emojis too, such as:
+This Bash script "gitcommit" can help you to generate git commit cool messages with emojis too, such as:
 
 ```bash
 git commit -m "approach parade 👒"
