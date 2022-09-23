@@ -50,6 +50,7 @@ chmod 440 ~/bin/wordlist.10000.txt
 Reference, books to learn more:
 - https://git-scm.com/
 - https://github.com/
+- https://git-scm.com/book/en/v2
 - https://books.goalkicker.com/GitBook/
 - https://books.goalkicker.com/BashBook/
 - https://books.goalkicker.com/LinuxBook/
