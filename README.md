@@ -45,6 +45,22 @@ chmod 550 ~/bin/gitcommit
 chmod 440 ~/bin/wordlist.10000.txt
 ```
 
+To create multiple messages at CLI:
+
+```bash
+$ for i in {1..10}; do echo $(getmessage); done
+computed equal 🛐
+vat outside 🎊
+elementary derby 🦄
+gorgeous goto 🥡
+liquid assessed 📒
+con additional 🕣
+magazine receives 🔡
+spaces damage 🚒
+developers crimes 🛷
+journalists links 📬
+```
+
 > Very hard stuff to do in life: name a variable, name a class or set a commit message!!
 
 Reference and books to learn more:
