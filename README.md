@@ -42,6 +42,7 @@ Of course, make the scripts executable at Linux:
 chmod 550 ~/bin/commitmsg
 chmod 550 ~/bin/getmessage
 chmod 550 ~/bin/gitcommit
+chmod 440 ~/bin/wordlist.10000.txt
 ```
 
 > Very hard stuff to do in life: name a variable, name a class or set a commit message!!
