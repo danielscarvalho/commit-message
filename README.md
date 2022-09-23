@@ -36,7 +36,7 @@ gitcommit
 git push
 ```
 
-Of course, make the scripts executable at Linux:
+Of course, make the Bash scripts executable at Linux:
 
 ```bash
 chmod 550 ~/bin/commitmsg
@@ -47,10 +47,11 @@ chmod 440 ~/bin/wordlist.10000.txt
 
 > Very hard stuff to do in life: name a variable, name a class or set a commit message!!
 
-Reference, books to learn more:
+Reference and books to learn more:
 - https://git-scm.com/
 - https://github.com/
 - https://git-scm.com/book/en/v2
 - https://books.goalkicker.com/GitBook/
 - https://books.goalkicker.com/BashBook/
 - https://books.goalkicker.com/LinuxBook/
+- https://emojipedia.org/
