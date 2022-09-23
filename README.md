@@ -38,8 +38,9 @@ git push
 
 > Very hard stuff to do in life: name a variable, name a class or set a commit message!!
 
-Reference:
+Reference, books to learn more:
 - https://git-scm.com/
 - https://github.com/
+- https://books.goalkicker.com/GitBook/
 - https://books.goalkicker.com/BashBook/
 - https://books.goalkicker.com/LinuxBook/
