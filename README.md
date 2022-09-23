@@ -36,6 +36,14 @@ gitcommit
 git push
 ```
 
+Of course, make the scripts executable at Linux:
+
+```bash
+chmod 550 ~/bin/commitmsg
+chmod 550 ~/bin/getmessage
+chmod 550 ~/bin/gitcommit
+```
+
 > Very hard stuff to do in life: name a variable, name a class or set a commit message!!
 
 Reference, books to learn more:
